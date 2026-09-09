@@ -1,0 +1,4 @@
+slope=0.3463
+runs=200
+seed=999
+N_ref=8000
